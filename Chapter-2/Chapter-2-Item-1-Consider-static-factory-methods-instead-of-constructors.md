@@ -1,4 +1,4 @@
-## Chapter 2. Creating and Destroying Objects（创建和销毁对象）
+## <ruby>Chapter<rt>ˈtʃæptər</rt></ruby> 2. Creating and Destroying Objects（创建和销毁对象）
 
 ### Item 1: Consider static factory methods instead of constructors（考虑以静态工厂方法代替构造函数）
 
